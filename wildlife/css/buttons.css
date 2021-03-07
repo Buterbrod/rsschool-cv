@@ -1,0 +1,30 @@
+.btn {
+  background: #cd6326;
+  /*border-radius: 5px;*/
+  border: 0;
+  vertical-align: middle;
+  color: #f7f7f7;
+}
+
+.btn:hover {
+  background: #e39128;
+}
+.btn:active {
+  background: #8f5613;
+}
+
+.btn-l {
+  background: transparent;
+  vertical-align: middle;
+  border: 2px solid #cd6326;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.btn-l:hover {
+  background: #cd6326;
+}
+.btn-l:active {
+  background: #8f5613;
+  border-color: #8f5613;
+}
